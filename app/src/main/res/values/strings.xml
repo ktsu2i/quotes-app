@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="author1">Maya Angelou</string>
+    <string name="author2">Warren Buffett</string>
+    <string name="author3">Napoleon Hill</string>
+    <string name="author4">Ayn Rand</string>
+    <string name="author5">Estee Lauder</string>
+    <string name="author6">Sheryl Sandberg</string>
+    <string name="author7">Elon Musk</string>
+    <string name="author8">Steve Jobs</string>
+    <string name="author9">Ichiro Suzuki</string>
+    <string name="author10">LeBron James</string>
+    <string name="quotes1">Nothing will work unless you do.</string>
+    <string name="quotes2">Someone is sitting in the shade today because someone planted a tree a long time ago.</string>
+    <string name="quotes3">If you can’t do great things, do small things in a great way.</string>
+    <string name="quotes4">The question isn’t who is going to let me; it’s who is going to stop me?</string>
+    <string name="quotes5">I never dreamed about success. I worked for it.</string>
+    <string name="quotes6">Done is better than perfect</string>
+    <string name="quotes7">I would rather be optimistic and wrong than pessimistic and right.</string>
+    <string name="quotes8">Quality is more important than quantity. One home run is much better than two doubles.</string>
+    <string name="quotes9">If I am in a slump, I ask myself for advice.</string>
+    <string name="quotes10">You cannot be afraid to fail. It iss the only way you succeed - you are not gonna succeed all the time, and I know that.</string>
+</resources>
